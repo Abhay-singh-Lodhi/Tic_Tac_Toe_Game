@@ -40,7 +40,9 @@ A classic Tic Tac Toe game built with HTML, CSS, and JavaScript. This interactiv
 - JavaScript (ES6+)
 
 ## Screenshot
-![Game Screenshot](https://)
+![Game Screenshot](Tic_Tac_Toe_Game/images/ss11.png)
+![Game Screenshot](Tic_Tac_Toe_Game/images/ss12.png)
+![Game Screenshot](Tic_Tac_Toe_Game/images/ss13.png)
 
 
 ## License
